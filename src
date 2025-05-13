@@ -1,0 +1,13 @@
+nome = "Deividy"
+sobrenome = "furtado"
+idade = 33
+ano_de_nascimento = 2025 - idade
+e_maior_de_idade = idade >= 18
+altura = 1.80
+
+print('nome:', nome)
+print('sobrenome:', sobrenome)
+print('idade:', idade)
+print('ano de nascimento:', ano_de_nascimento)
+print('é maior de idade:', e_maior_de_idade)
+print('altura:', altura)
